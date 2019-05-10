@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(express.static(`${__dirname}/../public`));
 app.use('/data', router);
 
-const PORT = 3000;
+const PORT = process.env.PORT;
 
 app.listen(PORT, (err) => {
   if (err) {
