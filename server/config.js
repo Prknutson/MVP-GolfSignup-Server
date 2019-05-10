@@ -2,7 +2,7 @@ const CONFIG = {
   DATABASE: {
     UID: '',
     PWD: '',
-    HOST: 'localhost',
+    HOST: process.env.DATABASE_URL,
     PORT: 5432,
     DATABASE: 'signups'
   }
