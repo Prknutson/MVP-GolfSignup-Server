@@ -1,6 +1,5 @@
-http://freegifmaker.me/images/2fgJQ/
 
-![alt text](http://i.freegifmaker.me/1/5/5/8/1/1/1558116110114393.gif "Logo Title Text 1")
+![Golf Sign Up](http://i.freegifmaker.me/1/5/5/8/1/1/1558116110114393.gif "Golf Sign Up")
 
 
 # Golf Signup
